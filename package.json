@@ -1,0 +1,17 @@
+{
+  "name": "shana",
+  "version": "1.0.0",
+  "description": "wordpress theme for Shana McEachren website",
+  "main": "index.php",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanessa Rusu",
+  "license": "ISC"
+}
