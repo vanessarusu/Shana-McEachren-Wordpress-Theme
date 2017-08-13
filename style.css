@@ -725,6 +725,9 @@ footer, header {
   padding-top: 100px;
   text-align: center !important;
   margin-bottom: 0; }
+  @media screen and (max-width: 780px) {
+    #pg-27-0 {
+      background-position: right center; } }
 
 #hero img {
   max-width: 335px !important; }
@@ -823,9 +826,6 @@ footer, header {
   background-size: auto 100%;
   margin-bottom: 0;
   position: relative; }
-  @media screen and (max-width: 780px) {
-    #pg-27-2 {
-      background-position: right center; } }
 
 #pg-27-3 {
   background: #f7f9fc;

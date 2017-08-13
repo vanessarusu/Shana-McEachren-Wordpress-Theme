@@ -120,6 +120,7 @@ footer,header {
 	max-height: 700px;
 	// background-position: top left;
 	background: url(http://vanessarusu.com/shana/wp-content/uploads/2017/08/shana-hero.jpg)left top;
+	@media screen and (max-width: 780px) { background-position: right center;}
 	background-size: cover;
 	padding-top: 100px;
 	text-align: center !important;
@@ -219,7 +220,6 @@ footer,header {
 	padding-top: 30px;
 	padding-bottom: 30px;
 	background: url(http://vanessarusu.com/shana/wp-content/uploads/2017/08/star-bg.svg)left center no-repeat;
-	@media screen and (max-width: 780px){background-position: right center;}
 	background-size: auto 100%;
 	margin-bottom: 0;
 	position: relative;
