@@ -568,3 +568,15 @@ footer,header {
   transform: translateX(0);
   opacity: 1;
 }
+
+@media screen and (max-width: 769px) {
+	body {
+		overflow-x: hidden;
+	}
+	#pgc-27-0-0 {
+		height: 0;
+	}
+	#hero img {
+		width: 100%;
+	}
+}
