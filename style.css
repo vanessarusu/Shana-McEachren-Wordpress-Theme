@@ -981,17 +981,17 @@ footer, header {
       cursor: pointer; }
       #pg-27-7 .widget_media_image img:hover {
         transform: translateY(-5px); }
-  #pg-27-7 #wpcf7-f59-p27-o1 {
+  #pg-27-7 #wpcf7-f59-p27-o1, #pg-27-7 form {
     margin-top: 10px; }
-    #pg-27-7 #wpcf7-f59-p27-o1 input, #pg-27-7 #wpcf7-f59-p27-o1 textarea {
+    #pg-27-7 #wpcf7-f59-p27-o1 input, #pg-27-7 #wpcf7-f59-p27-o1 textarea, #pg-27-7 form input, #pg-27-7 form textarea {
       width: 100%;
       padding: 20px;
       border: none;
       border-radius: 10px;
       margin-top: 25px; }
-    #pg-27-7 #wpcf7-f59-p27-o1 p {
+    #pg-27-7 #wpcf7-f59-p27-o1 p, #pg-27-7 form p {
       margin-top: 10px; }
-    #pg-27-7 #wpcf7-f59-p27-o1 input[type="submit"] {
+    #pg-27-7 #wpcf7-f59-p27-o1 input[type="submit"], #pg-27-7 form input[type="submit"] {
       background: #eb2b3a;
       width: 100%;
       margin-top: 0;
